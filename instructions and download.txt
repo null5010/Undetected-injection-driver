@@ -1,0 +1,36 @@
+Original thread made by me to hackvshack.net: https://hackvshack.net/threads/fully-undetected-cheat-driver-for-your-p2c.988/
+
+Hello, I've decided to share internal injection driver, that is confirmed to be undetected on EAC. Please remember once I release the source, I have send the source to EAC. This means that eventually it'll be "semi detected". So to make it undetected, you need to modify it.
+
+sa1fu has done a great tutorial regarding EAC, so please check that out. (https://hackvshack.net/threads/how-to-bypass-eac.733/)
+Like I stated a few lines up, I have sent this source to EAC yesterday. Regardless, you shouldn't worry about it, the average paster can make the driver undetected and can use it with their p2c.
+You can modify this source to work with any EAC enabled game easily, right now it's modified to work on rust. This is rather easy, and I don't think I need to explain you how to do it.
+
+
+Stuff you need to make it work, and modify it to be undetected later on:
+1st. Visual Studios, you can get it from here: Visual Studio
+
+2nd. WDK, more commonly known as windows driver kit. You can download it from here: WDK
+
+Optional: 3rd. You need to have good knowledge in the c++. Otherwise you won't be able to modify it, and make it undetected later on. But because I'm so nice, here is a online class on c++, that is decent and free;
+View: https://www.youtube.com/watch?v=8jLOx1hD3_o
+
+Optional: 4th. Knowledge in coding drivers, once again I am nice enough to give you link to a 3 part series about coding drivers;
+View: https://www.youtube.com/watch?v=KNGr4m99PTU
+
+
+That is basically all, I hope you guys have fun time learning, and improving this driver to be undetected!
+
+I'll be using linkvertise to share the code, since it will give me some money in exchange for this driver source, and you won't need to pay.
+
+Tutorial on how to download;
+Link for the driver and source: https://linkvertise.com/433747/undetected-driver-eac/1
+
+1st. Open the linkvertise link, and then press the "Free Access with Ads"
+2nd. Watch the ads, and then press "continue to download"
+3rd. Run the download, but disagree when it asks you to install any files, this can include cleaner, anti-virus.
+4th. After that, press the "Finish install" button, and then you should've gotten the ultradrv.rar file!
+
+I hope you guys enjoy this, and I wish you all the best year!
+
+-null​
